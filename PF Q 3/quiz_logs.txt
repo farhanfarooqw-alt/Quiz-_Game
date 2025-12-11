@@ -1,0 +1,8 @@
+Player: ali | Score: 108 | Time: Wed Dec  3 21:05:00 2025
+Player: alo | Score: 14 | Time: Thu Dec  4 14:12:02 2025
+Player: rrr | Score: 0 | Time: Wed Dec 10 13:07:22 2025 | Attempted: 10 | Correct: 2 | Wrong: 8
+Player: Ali | Score: -50 | Time: Wed Dec 10 13:08:35 2025 | Attempted: 10 | Correct: 0 | Wrong: 10
+Player: When two threads complete a task simultaneously | Score: -8 | Time: Thu Dec 11 01:48:09 2025 | Attempted: 10 | Correct: 1 | Wrong: 9
+Player: When two threads complete a task simultaneously | Score: 16 | Time: Thu Dec 11 01:49:42 2025 | Attempted: 10 | Correct: 3 | Wrong: 7
+Player: When two threads complete a task simultaneously | Score: -30 | Time: Thu Dec 11 01:50:50 2025 | Attempted: 10 | Correct: 0 | Wrong: 10
+Player: When two threads complete a task simultaneously | Score: 16 | Time: Thu Dec 11 08:58:33 2025 | Attempted: 10 | Correct: 3 | Wrong: 7
