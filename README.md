@@ -1,5 +1,10 @@
-🎮 QUIZ_game /n
-A beginner-friendly C++ quiz game you can run in the console. Designed to make learning programming fun and interactive. It uses arrays to store questions, functions to organize code, and file handling to save scores and logs. Perfect for practicing basic C++ concepts like loops, conditionals, and modular desig
+## 🎮 QUIZ_game
+
+A beginner-friendly C++ quiz game you can run in the console.  
+Designed to make learning programming fun and interactive.  
+It uses arrays to store questions, functions to organize code, and file handling to save scores and logs.  
+Perfect for practicing basic C++ concepts like loops, conditionals, and modular design.
+
 ### 🚀 Features
 
 | Feature             | Description                                                                 |
@@ -14,26 +19,32 @@ A beginner-friendly C++ quiz game you can run in the console. Designed to make l
 
 
 
+### 🛠️ Technologies Used
+- **Language:** C++
+- **Concepts:** Arrays, Functions, File Handling, Loops, Conditionals
+- **File I/O:** Saves scores and logs in `.txt` files
+- **Modular Design:** Functions like `askQuestion()`, `showLeaderboard()`, `saveScore()` keep code clean
 
-🛠️ Technologies Used
-• 	Language: C++
-• 	Concepts: Arrays, Functions, File Handling, Loops, Conditionals
-• 	File I/O: Saves scores and logs in  files
-• 	Modular Design: Functions like , ,  keep code clean
+---
 
-📚 Learning Outcomes
-• 	Practice C++ syntax and logic
-• 	Understand file input/output operations
-• 	Build a complete console application from scratch
-• 	Learn how to structure code using functions
+### 📚 Learning Outcomes
+- Practice C++ syntax and logic
+- Understand file input/output operations
+- Build a complete console application from scratch
+- Learn how to structure code using functions
 
-📈 Future Improvements
-• 	Add GUI using SFML or Qt
-• 	Online leaderboard with database
-• 	Timed quizzes and more categories
+---
 
-✅ How to Run
-1. 	Clone the repo
-2. 	Compile using any C++ compiler (e.g., )
-3. 	Run the executable in terminal
-4. 	Enjoy the quiz!
+### 📈 Future Improvements
+- Add GUI using SFML or Qt
+- Online leaderboard with database
+- Timed quizzes and more categories
+
+---
+
+### ✅ How to Run
+1. Clone the repo
+2. Compile using any C++ compiler (e.g., `g++ main.cpp -o quiz`)
+3. Run the executable in terminal
+4. Enjoy the quiz!
+
