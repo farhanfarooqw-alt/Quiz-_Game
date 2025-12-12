@@ -1,4 +1,4 @@
-🎮 QUIZ_game
+🎮 QUIZ_game /n
 A beginner-friendly C++ quiz game you can run in the console. Designed to make learning programming fun and interactive. It uses arrays to store questions, functions to organize code, and file handling to save scores and logs. Perfect for practicing basic C++ concepts like loops, conditionals, and modular desig
 ### 🚀 Features
 
