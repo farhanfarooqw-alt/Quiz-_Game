@@ -1,8 +1,5 @@
-ali | Wed Dec  3 21:05:00 2025 | 108
-alo | Thu Dec  4 14:12:02 2025 | 14
-rrr | Wed Dec 10 13:07:22 2025 | 0 | Hard
-Ali | Wed Dec 10 13:08:35 2025 | -50 | Hard
-When two threads complete a task simultaneously | Thu Dec 11 01:48:08 2025 | -8 | Easy
-When two threads complete a task simultaneously | Thu Dec 11 01:49:42 2025 | 16 | Easy
-When two threads complete a task simultaneously | Thu Dec 11 01:50:50 2025 | -30 | Medium
-When two threads complete a task simultaneously | Thu Dec 11 08:58:32 2025 | 16 | Easy
+ahmed | Mon Dec 11 10:15:20 2025 | 32 | Hard
+sara  | Tue Dec 12 14:40:05 2025 | 45 | Hard
+usman | Wed Dec 13 09:05:50 2025 | 38 | Hard
+fatima| Thu Dec 14 16:22:18 2025 | 50 | Hard
+hamza | Fri Dec 15 11:55:42 2025 | 41 | Hard
